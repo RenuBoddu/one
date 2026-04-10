@@ -557,7 +557,7 @@
                     <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:8px;">
                         <li><a href="#">Home</a></li>
                         <li><a href="#">Categories</a></li>
-                        <li><a href="#">Trending now</a></li>
+                        <li><a href="#">Trending</a></li>
                         <li><a href="#deals">Deals</a></li>
                         <li><a href="#about">About</a></li>
                     </ul>
@@ -570,7 +570,7 @@
         <!-- Hero -->
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
-                <h1>My Own Collection — Premium Picks</h1>
+                <h1>My Collection — Premium Picks</h1>
                 <p>Discover the latest trends in fashion, technology and accessories — curated just for you. Enjoy limited-time deals and free shipping on selected items.</p>
                 <div>
                     <button class="btn btn-primary" id="shopNow">Shop Now <em class="fas fa-arrow-right"></em></button>
