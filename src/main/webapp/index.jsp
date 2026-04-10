@@ -557,7 +557,7 @@
                     <ul style="list-style:none;padding:0;margin:0;display:flex;flex-direction:column;gap:8px;">
                         <li><a href="#">Home</a></li>
                         <li><a href="#">Categories</a></li>
-                        <li><a href="#">Trending</a></li>
+                        <li><a href="#">Trending now</a></li>
                         <li><a href="#deals">Deals</a></li>
                         <li><a href="#about">About</a></li>
                     </ul>
